@@ -1,0 +1,6 @@
+/* if element is empty, display none.  If you don't do this, the empty element will take up some space which can
+effect other elements being displayed */
+
+div.ui.icon.header:empty {
+  display: none;
+}
