@@ -4,7 +4,10 @@
 
   This is an app built using Angular which is a collection of reusable customizable components such as Segment, Placeholder, Table, Tabs, Statistics, Item List, Modal, & Accordion components.  For styling, Semantic UI was mainly used for the various components.  Angular routing was used for navigation.
 
-  ![app screenshot](src/assets/images/screenshot.png)
+  App screenshots:
+
+  ![app screenshot 1](src/assets/images/screenshot1.png)
+  ![app screenshot 2](src/assets/images/screenshot2.png)
   
   ## Table of Contents
   
