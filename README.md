@@ -20,7 +20,7 @@
   
   ## Installation
   
-  Deployed URL:
+  Deployed URL:  https://billstephens2022.github.io/Components-Angular/
   
   ## Usage
   
